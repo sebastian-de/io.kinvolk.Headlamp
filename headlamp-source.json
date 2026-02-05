@@ -1,8 +1,8 @@
 [
   {
     "type": "archive",
-    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.39.0/Headlamp-0.39.0-linux-arm64.tar.gz",
-    "sha256": "d141c5d2dd3732952e8f029d7a0441e6bb7ffd89a14038b98598cb9e3dc39f47",
+    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.40.0/Headlamp-0.40.0-linux-arm64.tar.gz",
+    "sha256": "651596aaa0009a5057270610299296ce6cf9201062d70048f9ed9ed74cb6b562",
     "dest": "headlamp",
     "only-arches": [
       "aarch64"
@@ -10,8 +10,8 @@
   },
   {
     "type": "archive",
-    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.39.0/Headlamp-0.39.0-linux-x64.tar.gz",
-    "sha256": "c26ea94dca9ba71472a981c1064ecbe435b8e77141090736eae3f471797d739a",
+    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.40.0/Headlamp-0.40.0-linux-x64.tar.gz",
+    "sha256": "53aa17362d095b32a04f54463b063cedc73dcdc20c9d98581f961ed636a0d64a",
     "dest": "headlamp",
     "only-arches": [
       "x86_64"
